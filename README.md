@@ -77,10 +77,9 @@ O banco de dados pode ser relacional (como PostgreSQL) ou NoSQL (como MongoDB). 
 2. **Validação de CPF/CNPJ**: Implementar validações adequadas para CPF e CNPJ, garantindo formato correto e cálculo dos dígitos verificadores.
 3. **Endereço via API**: O endereço deve ser preenchido automaticamente utilizando uma API externa (como ViaCEP).
 4. **Limite de Serviços no Carrinho**: Definir um limite máximo de serviços que podem ser adicionados ao carrinho.
-5. **Desconto Progressivo**: Implementar desconto automático ao adicionar 5 ou mais serviços ao carrinho.
-6. **Limite de Vendas por Cliente**: Cada cliente pode ter no máximo 10 vendas ativas.
-7. **Valores diferentes de acordo com a UF**: Cada UF deverá possuir serviços/planos com valores especificos, podendo ser uma porcentagem em cima do valor base.
-8. **Filtros Avançados no Dashboard**: No dashboard, implemente filtros por cliente, plano e período de tempo.
+5. **Limite de Vendas por Cliente**: Cada cliente pode ter no máximo 10 vendas ativas.
+6. **Valores diferentes de acordo com a UF**: Cada UF deverá possuir serviços/planos com valores especificos, podendo ser uma porcentagem em cima do valor base.
+7. **Filtros Avançados no Dashboard**: No dashboard, implemente filtros por cliente, plano e período de tempo.
 
 ### Critérios de Avaliação
 
