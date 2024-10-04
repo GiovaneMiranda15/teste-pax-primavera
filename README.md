@@ -170,7 +170,7 @@ OBS: Verificar as regras de negócio que estão na sessão de back-end. [Regras 
 3. **Integração**: Integração adequada entre back e front.
 4. **Testes**: A presença de testes automatizados será considerada um diferencial.
 5. **Documentação**: O sistema deve estar bem documentado, incluindo o uso de README e docstrings no código, além de documentação para uso dos enpoints.
-
+---
 ## Instruções para Submissão
 
 1. Crie um repositório público no GitHub com o código fonte.
