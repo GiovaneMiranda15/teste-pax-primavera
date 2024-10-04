@@ -16,4 +16,4 @@ Para o back-end serão avaliados pontos, como:
   * Estruturação do banco de dados;
   * Teste unitários;
 
-A api deve possuir todos os endpoints relacionados as funcionalidades mencionadas anteriormente. O mesmo poderá ser feito em algumas das linguagens abaixo (Python, Php, Javascrip/Typescrip), a utilização de frameworks fica a critério do candidato, da mesma forma que o banco de dados utilizado, podendo ser Relacional ou NOSQL.
+A api deve possuir todos os endpoints relacionados as funcionalidades mencionadas anteriormente. O mesmo poderá ser feito em algumas das linguagens abaixo (Python, Php, Javascrip/Typescript), a utilização de frameworks fica a critério do candidato, da mesma forma que o banco de dados utilizado, podendo ser Relacional ou NOSQL.
